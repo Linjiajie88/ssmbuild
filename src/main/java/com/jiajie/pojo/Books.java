@@ -9,7 +9,7 @@ import lombok.NoArgsConstructor;
 public class Books {
     private int bookID;
     private String bookName;
-    private  int bookCount;
+    private  int bookCounts;
     private String detail;
 
 }
